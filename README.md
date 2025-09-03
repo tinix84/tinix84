@@ -185,18 +185,6 @@ I regularly share my thoughts on power electronics, engineering, and technology 
   <img src="https://github.com/tinix84/tinix84/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-### 🎨 Animated GitHub Metrics
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/tinix84?template=classic&config.timezone=Europe%2FZurich" alt="Animated Metrics"/>
-</div>
-
-### 📊 3D Contribution Calendar
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/tinix84?username=tinix84&theme=default&background=000000&animation_color=0099ff" alt="3D Contributions"/>
-</div>
-
 ### 🎭 GitHub Profile Views Counter (Animated)
 
 <div align="center">
