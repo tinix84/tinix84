@@ -125,17 +125,19 @@ class RiccardoTinivella:
   <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Overview"/>
 </div>
 
-### 🎯 Contribution Streak
+### 🎯 Contribution Streak & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tinix84&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinix84&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
-### 🗓️ Contribution Heatmap Calendar
+### 📈 Activity Overview
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tinix84&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution Heatmap"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tinix84&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Activity Graph"/>
 </div>
+
+*Note: True GitHub-style contribution heatmap calendars (the classic grid of squares) require custom JavaScript implementations and aren't available as simple image widgets for GitHub profiles.*
 
 ### 🎨 Language Usage Heatmap
 
