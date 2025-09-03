@@ -119,12 +119,6 @@ class RiccardoTinivella:
   <img src="https://github-profile-trophy.vercel.app/?username=tinix84&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
-### 📅 GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Overview"/>
-</div>
-
 ### 🔥 GitHub Streaks (Multiple Sources)
 
 <div align="center">
@@ -136,12 +130,6 @@ class RiccardoTinivella:
 </div>
 
 *Using multiple sources for better reliability - if one is down, the other might work!*
-
-### 🎯 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</div>
 
 ### 📈 Activity Overview
 
