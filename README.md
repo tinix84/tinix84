@@ -185,7 +185,29 @@ I regularly share my thoughts on power electronics, engineering, and technology 
   <img src="https://github.com/tinix84/tinix84/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-*Note: To enable the snake animation, you'll need to set up a GitHub Action. I can help you with that setup if you'd like!*
+### 🎨 Animated GitHub Metrics
+
+<div align="center">
+  <img src="https://metrics.lecoq.io/tinix84?template=classic&config.timezone=Europe%2FZurich" alt="Animated Metrics"/>
+</div>
+
+### 📊 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api/tinix84?username=tinix84&theme=default&background=000000&animation_color=0099ff" alt="3D Contributions"/>
+</div>
+
+### 🎭 GitHub Profile Views Counter (Animated)
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@:tinix84?theme=rule34" alt="Animated View Counter"/>
+</div>
+
+### ⚡ Dynamic README Quotes
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quote=The%20future%20belongs%20to%20those%20who%20bridge%20hardware%20and%20software&author=Riccardo%20Tinivella" alt="Dynamic Quote"/>
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tinix84&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
