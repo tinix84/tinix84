@@ -77,23 +77,58 @@ class RiccardoTinivella:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinix84&theme=tokyonight" alt="Repos per Language"/>
 </div>
 
+### 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tinix84&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+</div>
+
+### 📊 Detailed Statistics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tinix84&theme=tokyonight" alt="Stats Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tinix84&theme=tokyonight" alt="Most Used Language"/>
+</div>
+
 ### ⭐ Repository Stars & Growth
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinix84&repo=your-most-starred-repo&theme=tokyonight" alt="Pinned Repository"/>
+  
+[![GitHub User's stars](https://img.shields.io/github/stars/tinix84?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=yellow)](https://github.com/tinix84?tab=repositories)
+
 </div>
 
-### 🌟 Recently Starred Repositories
+### 🌟 Most Popular Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tinix84&theme=tokyonight&layout=compact" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinix84&repo=tinix84&theme=tokyonight" alt="Profile Repository"/>
 </div>
+
+*Once you have more repositories, we can pin your most starred ones here!*
 
 ### 👥 Followers & Network Growth
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/tinix84?label=Followers&style=social" alt="GitHub Followers"/>
-  <img src="https://img.shields.io/github/stars/tinix84?label=Total%20Stars&style=social" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/followers/tinix84?label=Followers&style=for-the-badge&logo=github&color=blue" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/tinix84?label=Total%20Stars&style=for-the-badge&logo=github&color=yellow" alt="Total Stars"/>
+</div>
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tinix84&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
+</div>
+
+### 📅 3D Contribution Calendar
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Overview" alt="GitHub Overview"/>
+</div>
+
+### 🎯 Coding Activity Heatmap
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinix84&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ## 📝 Latest Articles & Insights
@@ -118,8 +153,17 @@ I regularly share my thoughts on power electronics, engineering, and technology 
 
 ---
 
+### 🐍 Watch My Contributions Get Eaten!
+
+<div align="center">
+  <img src="https://github.com/tinix84/tinix84/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+*Note: To enable the snake animation, you'll need to set up a GitHub Action. I can help you with that setup if you'd like!*
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tinix84&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Profile%20Updated-September%202025-brightgreen?style=flat-square" alt="Last Updated" />
 </div>
 
 <div align="center">
