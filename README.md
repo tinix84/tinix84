@@ -1,40 +1,97 @@
-<h1 align="center">Hi 👋, I'm Riccardo</h1>
-<h3 align="center">A passionate italian electrical engineer</h3>
+# Hi there, I'm Riccardo! 👋
 
-<a href="https://www.buymeacoffee.com/tinix84" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Power+Electronics+Engineer;Python+%26+AI+Enthusiast;Circuit+Designer;Microwave+Specialist" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tinix84" alt="tinix84" /> </p>
+## 🚀 About Me
 
-- 🔭 I’m currently working on [automotive power electronic](www.brusa.biz)
+I'm a passionate **Power Electronics Engineer** specializing in automotive applications, with a growing expertise in **Python** and **AI technologies**. I love bridging the gap between traditional electronics and modern software solutions.
 
-- 🌱 I’m currently learning **python, AI**
+- 🔋 Currently working on **automotive power electronics** systems
+- 🤖 Exploring the intersection of **AI and power electronics**
+- 🐍 Diving deep into **Python** for engineering applications
+- 🌐 Always learning new technologies and methodologies
 
-- 👯 I’m looking to collaborate on **GeckoCIRCUIT software**
+## 🛠️ Tech Stack
 
-- 🤝 I’m looking for help with **kubernetes**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/riccardotinivella/](https://www.linkedin.com/in/riccardotinivella/)
+### Engineering Tools
+![GeckoCIRCUIT](https://img.shields.io/badge/GeckoCIRCUIT-FF6B35?style=for-the-badge)
+![SPICE](https://img.shields.io/badge/SPICE-4285F4?style=for-the-badge)
+![Altium](https://img.shields.io/badge/Altium-A5915F?style=for-the-badge)
 
-- 📝 I regulary write articles on [https://www.linkedin.com/in/riccardotinivella/](https://www.linkedin.com/in/riccardotinivella/)
+### Technologies I'm Learning
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-- 💬 Ask me about **electronic, microwave**
+## 🎯 What I'm Up To
 
-- 📫 How to reach me **tinix84@gmail.com**
+```python
+class RiccardoTinivella:
+    def __init__(self):
+        self.name = "Riccardo Tinivella"
+        self.role = "Power Electronics Engineer"
+        self.current_focus = ["Automotive Power Systems", "Python", "AI/ML"]
+        self.collaboration_interests = ["GeckoCIRCUIT", "Open Source Tools"]
+        self.learning = ["Kubernetes", "Advanced Python", "AI for Engineering"]
+        
+    def get_expertise(self):
+        return ["Power Electronics", "Microwave Engineering", "Circuit Design"]
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+```
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 🤝 Let's Collaborate!
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></p>
+- 🔍 **Looking to collaborate on:** GeckoCIRCUIT software development and power electronics projects
+- 🆘 **Seeking help with:** Kubernetes deployment and container orchestration
+- 💡 **Ask me about:** Power electronics, microwave engineering, circuit simulation
+- 🎯 **Open to:** Consulting, technical discussions, and knowledge sharing
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinix84&layout=compact&hide=html" alt="tinix84" /></p>
+## 📊 GitHub Analytics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true" alt="tinix84" /></p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinix84&layout=compact&theme=tokyonight"/>
+</div>
 
-<p align="center">
-<a href="https://twitter.com/tinix84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tinix84" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/riccardo.tinivella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="riccardo.tinivella" height="30" width="30" /></a>
-<a href="https://fb.com/tinix84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="tinix84" height="30" width="30" /></a>
-<a href="https://instagram.com/riccardo tinivella" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="riccardo tinivella" height="30" width="30" /></a>
-<a href="https://medium.com/@tinix84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tinix84" height="30" width="30" /></a>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinix84&theme=tokyonight" alt="tinix84" />
+</div>
+
+## 📝 Latest Articles & Insights
+
+I regularly share my thoughts on power electronics, engineering, and technology trends:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardotinivella/)
+
+## 🌟 Featured Projects
+
+*Coming soon - currently organizing my best repositories to showcase here!*
+
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinix84@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riccardotinivella/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tinix84)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tinix84&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</div>
+
+<div align="center">
+  <i>⚡ "The future belongs to those who bridge hardware and software" ⚡</i>
+</div>
