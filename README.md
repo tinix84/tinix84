@@ -119,16 +119,28 @@ class RiccardoTinivella:
   <img src="https://github-profile-trophy.vercel.app/?username=tinix84&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
-### 📅 3D Contribution Calendar
+### 📅 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=GitHub%20Overview" alt="GitHub Overview"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Overview"/>
 </div>
 
-### 🎯 Coding Activity Heatmap
+### 🎯 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinix84&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=tinix84&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+</div>
+
+### 🗓️ Contribution Heatmap Calendar
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tinix84&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Contribution Heatmap"/>
+</div>
+
+### 🎨 Language Usage Heatmap
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinix84&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Language Heatmap"/>
 </div>
 
 ## 📝 Latest Articles & Insights
