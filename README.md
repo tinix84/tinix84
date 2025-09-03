@@ -66,6 +66,36 @@ class RiccardoTinivella:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinix84&theme=tokyonight" alt="tinix84" />
 </div>
 
+### 📈 Growth & Activity Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tinix84&theme=tokyonight" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tinix84&theme=tokyonight" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tinix84&theme=tokyonight" alt="Repos per Language"/>
+</div>
+
+### ⭐ Repository Stars & Growth
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tinix84&repo=your-most-starred-repo&theme=tokyonight" alt="Pinned Repository"/>
+</div>
+
+### 🌟 Recently Starred Repositories
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tinix84&theme=tokyonight&layout=compact" alt="WakaTime Stats"/>
+</div>
+
+### 👥 Followers & Network Growth
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/tinix84?label=Followers&style=social" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/tinix84?label=Total%20Stars&style=social" alt="Total Stars"/>
+</div>
+
 ## 📝 Latest Articles & Insights
 
 I regularly share my thoughts on power electronics, engineering, and technology trends:
