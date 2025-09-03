@@ -125,10 +125,22 @@ class RiccardoTinivella:
   <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Overview"/>
 </div>
 
-### 🎯 Contribution Streak & Activity
+### 🔥 GitHub Streaks (Multiple Sources)
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tinix84&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tinix84&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats - Alternative"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=tinix84&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats - Official"/>
+</div>
+
+*Using multiple sources for better reliability - if one is down, the other might work!*
+
+### 🎯 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 </div>
 
 ### 📈 Activity Overview
