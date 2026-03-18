@@ -9,6 +9,7 @@ MSc Electrical Engineering, Politecnico di Torino (110/110 cum laude) | 8 public
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-riccardotinivella-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/riccardotinivella/)
 [![Website](https://img.shields.io/badge/Web-tinix84.github.io-2E9EF7?style=flat&logo=github-pages)](https://tinix84.github.io/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Tinivella-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Riccardo-Tinivella)
+[![CV](https://img.shields.io/badge/CV-Full_Resume-333?style=flat&logo=readme)](https://github.com/tinix84/cv)
 
 ---
 
