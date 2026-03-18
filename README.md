@@ -44,12 +44,55 @@ MSc Electrical Engineering, Politecnico di Torino (110/110 cum laude) | 8 public
 | [**interleaved_boost**](https://github.com/tinix84/interleaved_boost) | C2000 firmware for 3-phase interleaved boost converter — production-grade embedded power electronics |
 | [**awesome-power-eval-kits**](https://github.com/tinix84/awesome-power-eval-kits) | Curated catalog of power electronics evaluation kits, built with the HTWG PES course community |
 
+### Magnetics Design
+
+| Repository | Description |
+|:-----------|:------------|
+| [**MKF**](https://github.com/tinix84/MKF) | Magnetics Knowledge Foundation — C++ core library for magnetic component models |
+| [**MVB**](https://github.com/tinix84/MVB) | Magnetics Virtual Builder — Python scripts to produce FreeCAD models, meshes, and drawings from MAS schemas |
+| [**PyOpenMagnetics**](https://github.com/tinix84/PyOpenMagnetics) | Python bindings for the OpenMagnetics ecosystem |
+| [**mutual_transformer**](https://github.com/tinix84/mutual_transformer) | MATLAB + LTspice mutual impedance transformer model for accurate AC winding loss characterization |
+| [**inductor_optimizer**](https://github.com/tinix84/inductor_optimizer) | FEMM/MATLAB-based inductor optimization |
+| [**choke_ac_model_fitting**](https://github.com/tinix84/choke_ac_model_fitting) | LCR meter measurement fitting to AC spice model |
+| [**py_magnetic_fem**](https://github.com/tinix84/py_magnetic_fem) | FEM-based magnetic design in Python |
+
+### Hardware & Firmware
+
+| Repository | Description |
+|:-----------|:------------|
+| [**interleaved_boost**](https://github.com/tinix84/interleaved_boost) | C2000 firmware for 3-phase interleaved boost converter with CLA current control |
+| [**awesome-power-eval-kits**](https://github.com/tinix84/awesome-power-eval-kits) | Curated catalog of power electronics evaluation kits, built with the HTWG PES course community |
+| [**doublepulse_tester**](https://github.com/tinix84/doublepulse_tester) | LTspice double-pulse tester simulation + MATLAB/Python switching loss extraction |
+| [**syr-e**](https://github.com/tinix84/syr-e) | MATLAB/Octave synchronous reluctance machine design with FEMM and multi-objective optimization |
+
+### Test & Measurement
+
+| Repository | Description |
+|:-----------|:------------|
+| [**fft**](https://github.com/tinix84/fft) | FFT utilities oriented to power electronics waveform analysis |
+| [**pyZfit**](https://github.com/tinix84/pyZfit) | Impedance fitting tool — fit LCR measurements to equivalent circuit models |
+| [**emc-analyzer**](https://github.com/tinix84/emc-analyzer) | EMC spectrum analyzer (Nuxt 3 + Rust WebAssembly) |
+| [**iomyfiles**](https://github.com/tinix84/iomyfiles) | Python utilities for importing Excel, MATLAB, and instrument data files |
+| [**pymatlab**](https://github.com/tinix84/pymatlab) | Python-MATLAB engine bridge scripts |
+| [**Maxwell-Electronic-Transformer-Kit**](https://github.com/tinix84/Maxwell-Electronic-Transformer-Kit) | ANSYS Maxwell automation for electronic transformer design |
+
 ### AI & Automation
 
 | Repository | Description |
 |:-----------|:------------|
 | [**agents-kindergarden**](https://github.com/tinix84/agents-kindergarden) | Playground for AI agentic frameworks — experimenting with LLM agents for engineering automation |
+| [**rosetta-framework**](https://github.com/tinix84/rosetta-framework) | Blackbox testing framework inspired by Citadel |
+| [**standard-expert**](https://github.com/tinix84/standard-expert) | Intelligent homologation support for parsing and querying IEC/ISO/CISPR standards |
 | [**LinkedinPublic**](https://github.com/tinix84/LinkedinPublic) | Jupyter notebooks: EE utilities, data analysis, and technical content creation tools |
+
+### Quantitative Finance
+
+| Repository | Description |
+|:-----------|:------------|
+| [**myfinance**](https://github.com/tinix84/myfinance) | Quantitative finance experiments in Python |
+| [**DV2_Strat**](https://github.com/tinix84/DV2_Strat) | Mean-reversion trading strategy for S&P 500 using DV2 indicator |
+| [**qmodels_serverless**](https://github.com/tinix84/qmodels_serverless) | Serverless quantitative models (MenthorQ) |
+| [**qbot**](https://github.com/tinix84/qbot) | Discord bot for MenthorQ community |
 
 ---
 
