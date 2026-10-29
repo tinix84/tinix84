@@ -1,8 +1,10 @@
 # Riccardo Tinivella
 
-Most engineering tools give you an answer. I build the ones that show you the price of each choice.
+Just designing a buck converter, you have an endless number of choices. Each one gives you a different design. There is a pro and a con, every time.
 
-A design is a walk through a graph of choices. 10 % or 100 % ripple on a 20 A buck: 13.71 µH or 1.371 µH. You pay in inductance, or you pay ten times the capacitor current. Neither is wrong. Each path ends at a different converter. The repositories below do one of three jobs: put a price on one step, keep the path on record, or teach the walk.
+So my tools do not give you the answer. They show you the price of each choice, and you decide if you want to pay it.
+
+Example. A 20 A buck, 10 % or 100 % ripple? 13.71 µH or 1.371 µH. You pay in inductance, or you pay ten times the capacitor current. Neither is wrong. Engineering.
 
 How I think about it: **[Thinking in power electronics](https://tinix84.github.io/blog/thinking-in-power-electronics/)**
 
@@ -10,17 +12,21 @@ How I think about it: **[Thinking in power electronics](https://tinix84.github.i
 
 The tables below show 15 repositories. All 40+ projects, each with its context and outcome: [tinix84.github.io/projects](https://tinix84.github.io/projects/).
 
+## How I got here
+
+Once I was young, I was building violins. Then low-noise amplifiers and mic preamps, then RF power amplifiers up to 24 GHz. I started power electronics because it was the most complex field I had ever met. I said: this is what I like.
+
+I never studied it. I learned it by owning products, from schematic to UL certificate. And what I understand today is maybe ten percent. Day by day, one percent improvement.
+
 ## Now
 
 - Technical business development for 400/800 V power conversion: AI data centres, battery storage, industrial power.
 - Guest lecturer in power electronics at HTWG Konstanz.
 - Quant at MenthorQ. Control-loop stability and options gamma are the same argument. I checked.
 
-I never studied power electronics. I learned it by owning products from schematic to UL certificate.
-
 ## Put a price on one step
 
-A choice is cheap when its price costs one script run, not one week at the bench.
+Formula, formula, but when you turn on the device, it does something else. Why? Because reality. So most of the time I wrote the simulator myself.
 
 | Repository | The price it shows |
 |---|---|
@@ -36,7 +42,7 @@ A choice is cheap when its price costs one script run, not one week at the bench
 
 ## Keep the path on record
 
-A decision nobody can review is a guess with a date on it.
+What has been decided, and what I could have chosen differently. If nobody writes it down, the next engineer pays for it again.
 
 | Repository | What it records |
 |---|---|
@@ -46,6 +52,8 @@ A decision nobody can review is a guess with a date on it.
 
 ## Teach the walk
 
+Never trust any kit. Don't copy the kit if you don't understand the kit.
+
 | Repository | What students get |
 |---|---|
 | [power-electronics](https://github.com/tinix84/power-electronics) | The HTWG course: every decision with its price, every dead end marked No! |
@@ -54,4 +62,4 @@ A decision nobody can review is a guess with a date on it.
 
 ---
 
-It is not poetic, it is not romantic, but simplicity pays. `#ThinkingInPowerElectronics`
+Be an engineer. Start simple, and make it complicated later. `#ThinkingInPowerElectronics`
