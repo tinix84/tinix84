@@ -1,136 +1,57 @@
 # Riccardo Tinivella
 
-**Head of System Power Engineering** @ [BRUSA HyPower](https://www.brusa.biz/) | Buchs, Switzerland
+Most engineering tools give you an answer. I build the ones that show you the price of each choice.
 
-Power electronics engineer leading a team of 30 engineers in automotive powertrain systems. I build open-source tools that bridge hardware design with modern software — from circuit simulation automation to AI-assisted engineering workflows.
+A design is a walk through a graph of choices. 10 % or 100 % ripple on a 20 A buck: 13.71 µH or 1.371 µH. You pay in inductance, or you pay ten times the capacitor current. Neither is wrong. Each path ends at a different converter. The repositories below do one of three jobs: put a price on one step, keep the path on record, or teach the walk.
 
-MSc Electrical Engineering, Politecnico di Torino (110/110 cum laude) | 8 publications, 70+ citations
+How I think about it: **[Thinking in power electronics](https://tinix84.github.io/blog/thinking-in-power-electronics/)**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-riccardotinivella-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/riccardotinivella/)
-[![Website](https://img.shields.io/badge/Web-tinix84.github.io-2E9EF7?style=flat&logo=github-pages)](https://tinix84.github.io/)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Tinivella-00CCBB?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Riccardo-Tinivella)
-[![CV](https://img.shields.io/badge/CV-Full_Resume-333?style=flat&logo=readme)](https://github.com/tinix84/cv)
+[Website](https://tinix84.github.io/) · [Course](https://tinix84.github.io/power-electronics/) · [Newsletter](https://riccardotinivella.substack.com/) · [LinkedIn](https://www.linkedin.com/in/riccardotinivella/) · [ResearchGate](https://www.researchgate.net/profile/Riccardo-Tinivella) · [tinix84@gmail.com](mailto:tinix84@gmail.com)
 
----
+The tables below show 15 repositories. All 40+ projects, each with its context and outcome: [tinix84.github.io/projects](https://tinix84.github.io/projects/).
 
-## Career Highlights
+## Now
 
-| Period | Role | Scope |
-|--------|------|-------|
-| **2023 – present** | Head of System Power Engineering, BRUSA HyPower | Leading 30 engineers on automotive high-voltage power converters (DCDC, OBC, inverters) for OEM programs. System requirements, architecture, and technology scouting. |
-| **2020 – 2023** | Senior Power Electronics Engineer, BRUSA HyPower | Design and validation of SiC-based automotive power converters. Led EMC compliance and homologation across EU/US/CN markets. |
-| **2015 – 2020** | Research Engineer, NTB/OST Buchs | R&D on medium-frequency transformers, GaN power amplifiers, and FPGA-based digital predistortion. University teaching in power electronics. |
-| **2008 – 2010** | Researcher, Politecnico di Torino | GaN HEMT device modeling and high-efficiency RF power amplifier design. |
+- Technical business development for 400/800 V power conversion: AI data centres, battery storage, industrial power.
+- Guest lecturer in power electronics at HTWG Konstanz.
+- Quant at MenthorQ. Control-loop stability and options gamma are the same argument. I checked.
 
-**Domains:** automotive powertrains (400V/800V), SiC/GaN wide-bandgap devices, DC/DC converters, motor drives, magnetics design, EMC, model-based development
+I never studied power electronics. I learned it by owning products from schematic to UL certificate.
 
----
+## Put a price on one step
 
-## Featured Projects
+A choice is cheap when its price costs one script run, not one week at the bench.
 
-### Power Electronics & Simulation
+| Repository | The price it shows |
+|---|---|
+| [pyplecs](https://github.com/tinix84/pyplecs) | Turns one-off PLECS runs into reusable sweeps and batch workflows |
+| [pycircuitsim](https://github.com/tinix84/pycircuitsim) | PLECS and GeckoCIRCUITS behind one Python interface |
+| [py_magnetic_fem](https://github.com/tinix84/py_magnetic_fem) | Parametric magnetic geometry driven into a finite-element solver |
+| [inductor_optimizer](https://github.com/tinix84/inductor_optimizer) | Multi-objective inductor design, each candidate evaluated by FEM |
+| [doublepulse_tester](https://github.com/tinix84/doublepulse_tester) | Double-pulse simulation that produces switching-loss maps |
+| [choke_ac_model_fitting](https://github.com/tinix84/choke_ac_model_fitting) | Measured choke impedance fitted to a SPICE model |
+| [mutual_transformer](https://github.com/tinix84/mutual_transformer) | AC winding loss from a mutual-impedance transformer model |
+| [thermalkli](https://github.com/tinix84/thermalkli) | Heatsink and semiconductor thermal analysis from the command line |
+| [interleaved_boost](https://github.com/tinix84/interleaved_boost) | C2000 firmware for a 3-phase interleaved boost with CLA current control |
 
-| Repository | Description |
-|:-----------|:------------|
-| [**pyplecs**](https://github.com/tinix84/pyplecs) | Python interface for PLECS circuit simulator — automate parametric sweeps, batch simulations, and post-processing. `30+` stars |
-| [**pycircuitsim**](https://github.com/tinix84/pycircuitsim) | Unified Python monorepo for circuit simulation automation (PLECS + GeckoCIRCUITS) with shared ABCs |
-| [**GeckoCIRCUITS**](https://github.com/tinix84/GeckoCIRCUITS) | Maintained fork of the fast power electronics circuit simulator, ported to modern JDK |
-| [**mutual_transformer**](https://github.com/tinix84/mutual_transformer) | MATLAB mutual transformer model for magnetics design, based on Bryce Hesterman's work |
+## Keep the path on record
 
-### Hardware & Firmware
+A decision nobody can review is a guess with a date on it.
 
-| Repository | Description |
-|:-----------|:------------|
-| [**interleaved_boost**](https://github.com/tinix84/interleaved_boost) | C2000 firmware for 3-phase interleaved boost converter — production-grade embedded power electronics |
-| [**awesome-power-eval-kits**](https://github.com/tinix84/awesome-power-eval-kits) | Curated catalog of power electronics evaluation kits, built with the HTWG PES course community |
+| Repository | What it records |
+|---|---|
+| [frameshift](https://github.com/tinix84/frameshift) | Frame the problem before optimizing a solution. Specification-first, pre-alpha |
+| [plecs-expert-skill](https://github.com/tinix84/plecs-expert-skill) | Agent skills that read, lay out and test PLECS models |
+| [glassgraph](https://github.com/tinix84/glassgraph) | A deterministic, byte-reproducible entity linker for research wikis |
 
-### Magnetics Design
+## Teach the walk
 
-| Repository | Description |
-|:-----------|:------------|
-| [**MKF**](https://github.com/tinix84/MKF) | Magnetics Knowledge Foundation — C++ core library for magnetic component models |
-| [**MVB**](https://github.com/tinix84/MVB) | Magnetics Virtual Builder — Python scripts to produce FreeCAD models, meshes, and drawings from MAS schemas |
-| [**PyOpenMagnetics**](https://github.com/tinix84/PyOpenMagnetics) | Python bindings for the OpenMagnetics ecosystem |
-| [**mutual_transformer**](https://github.com/tinix84/mutual_transformer) | MATLAB + LTspice mutual impedance transformer model for accurate AC winding loss characterization |
-| [**inductor_optimizer**](https://github.com/tinix84/inductor_optimizer) | FEMM/MATLAB-based inductor optimization |
-| [**choke_ac_model_fitting**](https://github.com/tinix84/choke_ac_model_fitting) | LCR meter measurement fitting to AC spice model |
-| [**py_magnetic_fem**](https://github.com/tinix84/py_magnetic_fem) | FEM-based magnetic design in Python |
-
-### Hardware & Firmware
-
-| Repository | Description |
-|:-----------|:------------|
-| [**interleaved_boost**](https://github.com/tinix84/interleaved_boost) | C2000 firmware for 3-phase interleaved boost converter with CLA current control |
-| [**awesome-power-eval-kits**](https://github.com/tinix84/awesome-power-eval-kits) | Curated catalog of power electronics evaluation kits, built with the HTWG PES course community |
-| [**doublepulse_tester**](https://github.com/tinix84/doublepulse_tester) | LTspice double-pulse tester simulation + MATLAB/Python switching loss extraction |
-| [**syr-e**](https://github.com/tinix84/syr-e) | MATLAB/Octave synchronous reluctance machine design with FEMM and multi-objective optimization |
-
-### Test & Measurement
-
-| Repository | Description |
-|:-----------|:------------|
-| [**fft**](https://github.com/tinix84/fft) | FFT utilities oriented to power electronics waveform analysis |
-| [**pyZfit**](https://github.com/tinix84/pyZfit) | Impedance fitting tool — fit LCR measurements to equivalent circuit models |
-| [**emc-analyzer**](https://github.com/tinix84/emc-analyzer) | EMC spectrum analyzer (Nuxt 3 + Rust WebAssembly) |
-| [**iomyfiles**](https://github.com/tinix84/iomyfiles) | Python utilities for importing Excel, MATLAB, and instrument data files |
-| [**pymatlab**](https://github.com/tinix84/pymatlab) | Python-MATLAB engine bridge scripts |
-| [**Maxwell-Electronic-Transformer-Kit**](https://github.com/tinix84/Maxwell-Electronic-Transformer-Kit) | ANSYS Maxwell automation for electronic transformer design |
-
-### AI & Automation
-
-| Repository | Description |
-|:-----------|:------------|
-| [**agents-kindergarden**](https://github.com/tinix84/agents-kindergarden) | Playground for AI agentic frameworks — experimenting with LLM agents for engineering automation |
-| [**rosetta-framework**](https://github.com/tinix84/rosetta-framework) | Blackbox testing framework inspired by Citadel |
-| [**standard-expert**](https://github.com/tinix84/standard-expert) | Intelligent homologation support for parsing and querying IEC/ISO/CISPR standards |
-| [**LinkedinPublic**](https://github.com/tinix84/LinkedinPublic) | Jupyter notebooks: EE utilities, data analysis, and technical content creation tools |
-
-### Quantitative Finance
-
-| Repository | Description |
-|:-----------|:------------|
-| [**myfinance**](https://github.com/tinix84/myfinance) | Quantitative finance experiments in Python |
-| [**DV2_Strat**](https://github.com/tinix84/DV2_Strat) | Mean-reversion trading strategy for S&P 500 using DV2 indicator |
-| [**qmodels_serverless**](https://github.com/tinix84/qmodels_serverless) | Serverless quantitative models (MenthorQ) |
-| [**qbot**](https://github.com/tinix84/qbot) | Discord bot for MenthorQ community |
+| Repository | What students get |
+|---|---|
+| [power-electronics](https://github.com/tinix84/power-electronics) | The HTWG course: every decision with its price, every dead end marked No! |
+| [awesome-power-eval-kits](https://github.com/tinix84/awesome-power-eval-kits) | Learn power electronics by reverse engineering evaluation kits |
+| [LinkedinPublic](https://github.com/tinix84/LinkedinPublic) | The notebooks behind my posts: EMC, magnetics, impedance fitting |
 
 ---
 
-## Tech Stack
-
-**Languages:** Python, C/C++, MATLAB/Simulink, Java
-**EDA & Simulation:** PLECS, GeckoCIRCUITS, LTspice, Altium Designer, ANSYS
-**AI/ML:** LLM agents, Claude Code, TensorFlow
-**Embedded:** TI C2000, FPGA, CAN/Modbus
-**DevOps:** Docker, Git, CI/CD
-
----
-
-## Publications
-
-Selected peer-reviewed work in IEEE and international conferences:
-
-- GaN HEMT high-efficiency power amplifier design (Class B, Class F)
-- Real-time FPGA-based baseband predistortion for W-CDMA 3GPP systems
-- Wide-bandgap semiconductor device modeling and characterization
-
-Full list on [ResearchGate](https://www.researchgate.net/profile/Riccardo-Tinivella) | [Google Scholar](https://scholar.google.com/citations?user=tinivella)
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tinix84&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinix84&layout=compact&theme=default&hide_border=true&langs_count=6"/>
-</div>
-
----
-
-<div align="center">
-
-**Open to:** consulting, technical collaboration, open-source contributions in power electronics and simulation tooling
-
-[![Email](https://img.shields.io/badge/tinix84@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tinix84@gmail.com)
-
-</div>
+It is not poetic, it is not romantic, but simplicity pays. `#ThinkingInPowerElectronics`
